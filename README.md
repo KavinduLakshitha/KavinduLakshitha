@@ -33,12 +33,12 @@
 <h3 align="left">📊 My Github Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=KavinduLakshitha&show_icons=true&&hide_border=true&bg_color=0D1117&text_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/KavinduLakshitha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshitha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/KavinduLakshitha/github-readme-stats)
 
 <b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <h1></h1>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KavinduLakshitha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KavinduLakshitha&theme=react-dark)](https://github.com/KavinduLakshitha/github-readme-activity-graph)
 
 <br>
