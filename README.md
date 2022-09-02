@@ -3,7 +3,7 @@
   <a href="https://github.com/KavinduLakshitha/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Kavindu+Marasinghe></a>
 </p></h1>
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 <ul>
 <li/>🎓 I' m 3rd year undergraduate studying Information Technology at SLIIT.
  <li>🔭 I’m currently working on few ReactJS Projects.
@@ -12,7 +12,7 @@
 
 <h1></h1>
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">Contact Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kavindu-marasinghe/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -39,6 +39,8 @@
 
 <h1></h1>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KavinduLakshitha&theme=react-dark)](https://github.com/KavinduLakshitha/github-readme-activity-graph)
+[![Kavindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=KavinduLakshitha&theme=react-dark)](https://github.com/KavinduLakshitha/github-readme-activity-graph)
 
 <br>
+
+![Snake animation](https://github.com/KavinduLakshitha/KavinduLakshitha/blob/output/github-contribution-grid-snake.svg)
