@@ -5,7 +5,7 @@
 
 <h3 align="left">About Me</h3>
 <ul>
-<li/>🎓 I' m 3rd year undergraduate studying Information Technology at SLIIT.
+<li/>🎓 I' m 4th year undergraduate studying Information Technology at SLIIT.
  <li>🔭 I’m currently working on few ReactJS Projects.
  <li>🌱 I’m currently learning new technologies like NextJS, Tailwind CSS & Web 3.0.
  </ul> 
