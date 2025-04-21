@@ -5,9 +5,9 @@
 
 <h3 align="left">About Me</h3>
 <ul>
-<li/>🎓 I' m 4th year undergraduate studying Information Technology at SLIIT.
- <li>🔭 I’m currently working on few ReactJS Projects.
- <li>🌱 I’m currently learning new technologies like NextJS, Tailwind CSS & Web 3.0.
+  <li/>💼 I'm a software developer with a background in Information Technology from SLIIT.
+   <li>⚙️ I work mainly with JavaScript-based technologies like React.js, Next.js, and Tailwind CSS.
+   <li>🚀 I'm passionate about building user-friendly web applications and writing clean, maintainable code.
  </ul> 
 
 <h1></h1>
