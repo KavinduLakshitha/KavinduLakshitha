@@ -1,46 +1,39 @@
-<p></p>
-<h1><p align="left">
-  <a href="https://github.com/KavinduLakshitha/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Kavindu+Marasinghe></a>
-</p></h1>
+<div align="center">
 
-<h3 align="left">About Me</h3>
-<ul>
-  <li/>💼 I'm a software developer with a background in Information Technology from SLIIT.
-   <li>⚙️ I work mainly with JavaScript-based technologies like React.js, Next.js, and Tailwind CSS.
-   <li>🚀 I'm passionate about building user-friendly web applications and writing clean, maintainable code.
- </ul> 
+# Hi 👋🏻, I'm Kavindu Marasinghe
 
-<h1></h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;React+%2F+Next.js+Developer;Building+Modern+Web+Applications" />
+</div>
 
-<h3 align="left">Contact Me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kavindu-marasinghe/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="kavindu marasinghe" height="30" /></a>
-  <a href="https://www.facebook.com/kavindulakshitha123" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="kavindulakshitha123" height="30" width="40" /></a>
-  <a href="https://instagram.com/_kavindu.lakshitha_/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_kavindu.lakshitha_" height="30" width="40" /></a>  
- <a href="https://twitter.com/kavindulm98" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+- 💼 Software Engineer with a background in Information Technology from SLIIT
+- ⚙️ Mainly working with JavaScript technologies such as React.js, Next.js, and Tailwind CSS
+- 🚀 Passionate about building scalable and user-friendly web applications
+- 🧠 Interested in clean architecture, UI/UX, and performance optimization
+- 🌱 Currently exploring full-stack and cloud technologies
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KavinduLakshitha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KavinduLakshitha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KavinduLakshitha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📬 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kavindu-marasinghe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kavindulm98" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://instagram.com/_kavindu.lakshitha_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/kavindulakshitha123" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h1></h1>
-
-<h3 align="left">📊 My Github Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=KavinduLakshitha&show_icons=true&&hide_border=true&bg_color=0D1117&text_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshitha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/KavinduLakshitha/github-readme-stats)
-
-<b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<h1></h1>
-
-[![Kavindu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinduLakshitha&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-<!--![Snake animation](https://github.com/KavinduLakshitha/KavinduLakshitha/blob/output/github-contribution-grid-snake.svg)-->
